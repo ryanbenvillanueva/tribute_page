@@ -1,0 +1,66 @@
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+main {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+body {
+  font-family: 'Nunito Sans', sans-serif;
+  font-size: 100%;
+  margin: 1rem;
+  color: #444444;
+  line-height: 1.6;
+}
+
+#img-div, #image {
+    max-width: 100%; 
+    display: block; 
+    height: auto;
+    margin: auto;
+}
+
+#title {
+   text-align: center;
+}
+
+h1 {
+  padding-top: 30px;
+  line-height: 1.2;
+  color: #666666;
+}
+
+h2 {
+  line-height: 1.2;
+  padding-bottom: 30px;
+  color: #666666;
+}
+
+#img-caption {  
+  font-weight: 700;
+  text-align: center;
+  padding-bottom: 30px;
+}
+
+#tribute-info {
+  padding-bottom: 30px;
+}
+
+a {
+  color: royalblue;
+  text-decoration: none;
+}
+
+#info {
+  padding-bottom: 30px;
+}
+
+footer {
+  text-align: center;
+  padding-bottom: 30px;
+}
