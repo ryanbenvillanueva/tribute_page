@@ -15,7 +15,7 @@ _Please go to_  https://learn.freecodecamp.org/responsive-web-design/responsive-
 ## Setup
 
 _Open your browser of choice and go to_
-https://rbsvillanueva.github.io/tribute-page/ _, or go to_
+https://ryanbenvillanueva.github.io/tribute_page/ _, or go to_
 https://codepen.io/RBSVillanueva/full/rjbWbR/ _to view it in Codepen._
 
 ## Support and contact details
