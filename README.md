@@ -1,5 +1,5 @@
 # Tribute Page
-URL: https://rbsvillanueva.github.io/tribute-page/
+URL:  https://ryanbenvillanueva.github.io/tribute_page/
 
 #### _Responsive Web Design Project - Build a Tribute Page for freeCodeCamp, 08.25.2018_
 
